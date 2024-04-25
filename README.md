@@ -7,6 +7,31 @@ Ce projet consiste à créer une plateforme de partage de recettes en ligne pour
 ### Maquettage
 Création des pages nécessaires en utilisant Figma.
 [Maquettage](https://www.figma.com/file/FLdAFD4rVCMtENFH4EuMir/Untitled?type=design&node-id=0-1&mode=design&t=covH4QeJe2pHteZi-0)
+## Page d'Accueil
+Affichage des recettes les plus populaires ou les plus récentes.
+Navigation intuitive pour accéder aux différentes catégories de recettes.
+
+## Pages de Recettes
+L'ajout d'une recette.
+Affichage détaillé des recettes, y compris les ingrédients, les étapes de préparation et des images attrayantes.
+Possibilité pour l'utilisateur de commenter et de noter les recettes.
+
+## Fonctionnalités de Recherche
+Barre de recherche permettant aux utilisateurs de trouver des recettes spécifiques par nom, ingrédient ou catégorie.
+
+## Pagination
+Ajout d'une fonctionnalité de pagination pour diviser les résultats de recherche ou de navigation par pages.
+Affichage d'un nombre limité de recettes par page pour améliorer les performances et la convivialité de la plateforme.
+
+## Technologies Utilisées
+HTML
+CSS
+JavaScript
+
+## Guide d'Installation
+Clonez ce dépôt sur votre machine locale.
+Ouvrez le dossier du projet dans votre éditeur de code préféré.
+Lancez le fichier index.html dans votre navigateur web pour accéder à la plateforme de partage de recettes.
 
 ## Auteurs
 - Zineb Zarda (zinebzarda1@gmail.com)
@@ -14,42 +39,26 @@ Création des pages nécessaires en utilisant Figma.
 - Chaimaa Mekayssi (mekayssichaimaaenaa@gmail.com)
 - Noureddine Bouzire (bouzire.noureddine1@gmail.com)
 
-## Description du Projet
-Le projet consiste à développer un site web de cinéma permettant aux utilisateurs de rechercher des films, consulter des informations sur les films et réserver des billets en ligne. Le site sera développé en utilisant Java Enterprise Edition (JEE) pour la logique côté serveur et des technologies web côté client.
+## Licence
 
-## Technologies Utilisées
-- HTML5
-- MySQL
-- Bootstrap
-- Git
-- Scrum Agile
-- CSS3
-- UML
-- Java EE
-- Maven
-- DAO
-- DTO
+MIT License
 
-## Objectifs
-- Créer une plateforme conviviale pour les utilisateurs pour rechercher des films et obtenir des informations sur eux.
-- Mettre en place un système de réservation de billets en ligne.
-- Assurer la sécurité des données des utilisateurs et du système.
+Copyright (c) [year] [fullname]
 
-## Fonctionnalités
-- Recherche de films par titre avec affichage des détails et de la durée.
-- Système de réservation de billets en ligne.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## Conception
-- Diagramme de classes.
-- Diagramme de cas d'utilisation.
-- Diagramme de séquence.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## Sécurité
-- Authentification des utilisateurs pour l'accès aux fonctionnalités protégées à l'aide de filtres de JEE.
-- Gestion des sessions pour maintenir l'état de l'utilisateur.
-
-## Bonus
-- Implémentation d'une fonctionnalité de recommandation de films basée sur les préférences des utilisateurs et leur historique de réservation.
-
-## Notes Additionnelles
-Assurez-vous d'utiliser MAVEN pour la gestion des dépendances du projet.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

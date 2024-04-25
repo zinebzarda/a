@@ -28,9 +28,6 @@ HTML
 CSS
 JavaScript
 
-## 
-
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noureddinebzr" height="30" width="40" />
 ## Guide d'Installation
 Clonez ce dépôt sur votre machine locale.
 Ouvrez le dossier du projet dans votre éditeur de code préféré.
